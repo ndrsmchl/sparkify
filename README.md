@@ -1,6 +1,6 @@
 # Sparkify - Churning Men & Women
 
-This project analyzes event log data from a fictional music streaming service that is provided by Udacity. The goal was to build a machine learning pipeline which allows to predict users that are likely to churn. Knowing which users might churn allows Sparkify's team to target these users specifically, e.g. with a retention campaign with special offers. 
+This project analyzes event log data from a fictional music streaming service that is provided by Udacity. The goal was to build a machine learning pipeline which allows to predict users that are likely to churn. Knowing which users might churn allows Sparkify's team to target these users specifically, e.g. with a retention campaign with special offers. Please find the full documentation of the project in [this Medium post](https://medium.com/p/dce30179291d).
 
 
 ## Content
